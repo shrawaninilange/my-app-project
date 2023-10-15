@@ -1,0 +1,70 @@
+/* src/Sidebar.css */
+.sidebar {
+  width: 200px;
+  background-color: rgb(79, 79, 101);
+ padding-top: 20px;
+color: white;
+ margin-top: 0ch;
+  height: 900px;
+ 
+}
+
+ul{
+    color: aliceblue;
+    
+}
+.div{
+    color: white;
+    margin-left: 40px;
+    width: 200px;
+    font-size: 20px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.dash{
+    color: white;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+.dashdiv{
+    color: white;
+     
+    width: 200px;
+    background-color: rgb(207, 207, 238);
+}
+
+.dash2{
+    color: white;
+    margin-left: 50px;
+    width: 200px;
+    font-size: 15px;
+    text-decoration: none;
+    
+}
+.dash3{
+    color: white;
+    margin-left: 20px;
+    width: 200px;
+    font-size: 20px;
+    text-decoration: none;
+}
+ 
+h4{
+    color: aliceblue;
+    text-decoration:none     ;
+}
+.ent{
+    color: white;
+     
+    width: 180px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 100px;
+    border-radius: 3px;
+    background-color: rgb(207, 207, 238);
+}
+
+.evo{
+color: white;
+margin-left: 20px;
+}
